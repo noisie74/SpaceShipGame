@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SpaceShip</string>
+    <string name="button1">New Game</string>
+    <string name="button_2">Continue Game</string>
 </resources>
